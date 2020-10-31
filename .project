@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Winter Carnival</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/P05.jar</name>
+			<type>1</type>
+			<location>C:/Users/saira/Desktop/P05.jar</location>
+		</link>
+		<link>
+			<name>src/images/dancingBadger.png</name>
+			<type>1</type>
+			<location>C:/Users/saira/Desktop/dancingBadger.png</location>
+		</link>
+		<link>
+			<name>src/images/frozenStatue.png</name>
+			<type>1</type>
+			<location>C:/Users/saira/Desktop/frozenStatue.png</location>
+		</link>
+		<link>
+			<name>src/images/starshipRobot.png</name>
+			<type>1</type>
+			<location>C:/Users/saira/Desktop/starshipRobot.png</location>
+		</link>
+	</linkedResources>
+</projectDescription>
